@@ -1,0 +1,8 @@
+Caratteri usati dal sito, ospitati qui invece che su Google Fonts.
+
+bricolage-grotesque.woff2  Bricolage Grotesque (variabile: peso 300-800, dimensione ottica 12-96)
+instrument-serif.woff2     Instrument Serif corsivo
+
+Entrambi sono distribuiti con licenza SIL Open Font License 1.1 (https://openfontlicense.org),
+che permette di usarli e incorporarli liberamente nei siti web.
+Fonte: Google Fonts, sottoinsieme "latin" (lettere accentate italiane comprese).
